@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Homework4\AbstractFactory\" />
+    <Folder Include="Homework4\Adapter\" />
+    <Folder Include="Homework4\Base\" />
+    <Folder Include="Homework4\Builder\" />
+    <Folder Include="Homework4\Decorator\" />
+    <Folder Include="Homework4\Facade\" />
+    <Folder Include="Homework4\Singleton\" />
+  </ItemGroup>
+
+</Project>
